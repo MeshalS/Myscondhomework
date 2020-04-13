@@ -1,0 +1,16 @@
+.imageWidth
+{
+  width: 400px;
+}
+.padingTop
+{
+  padding-top: 5px;
+}
+
+
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("assets/images/h123.jpg");
+}
